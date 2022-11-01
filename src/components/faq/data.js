@@ -4,24 +4,18 @@ export const questions = [
     {
       id: 1,
       title: "Can I learn ReactJS?",
-      answer: "Yes, you can learn ReactJS at ZinoTrustAcademy.com",
+      answer: "Yes, you can.",
     },
     {
       id: 2,
-      title: "How can I get started with SocialX?",
+      title: "How can i do it?",
       answer:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores quae nisi impedit earum? Molestias eum laborum distinctio iste dolore! Deserunt cum veritatis laboriosam nihil, beatae voluptate sint officia obcaecati quae.",
+        "Practice and work.",
     },
     {
       id: 3,
-      title: "Is there a refund policy?",
+      title: "How can i start?",
       answer:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores quae nisi impedit earum? Molestias eum laborum distinctio iste dolore! Deserunt cum veritatis laboriosam nihil, beatae voluptate sint officia obcaecati quae.",
-    },
-    {
-      id: 4,
-      title: "AAAAAAA",
-      answer:
-        "Lorem ipsum dolor,"
-    },
+        "First you need to learn basics, and then build some projects.",
+    }
   ];
